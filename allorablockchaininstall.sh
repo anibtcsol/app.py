@@ -133,7 +133,7 @@ chmod +x init.config
 
 # Download and run the upgrade script
 echo "Downloading and running the upgrade script..."
-wget https://raw.githubusercontent.com/anibtcsol/app.py/blob/main/model.sh
+wget https://github.com/anibtcsol/app.py/blob/main/model.sh
 chmod +x upgrade-model.sh
 ./upgrade-model.sh
 
